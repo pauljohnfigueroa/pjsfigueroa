@@ -1,7 +1,7 @@
-- 👋 Hi there, I am Paul / @pjsfigueroa
+- 👋 Hi there, I am Paul
 - 👀 I’m interested in React, Wordpress, NodeJs, and AWS,
 - 🌱 I’m currently sharpening my skills in React, Wordpress, Figma, and AWS.
-- 💞️ I’m looking to collaborate on React and Wordpress theme development.
+- 💞️ I’m looking to collaborate on React and Wordpress theme development projects.
 - 📫 Contact me at pjsfigueroa@gmail.com
 
 <!---
